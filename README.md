@@ -1,4 +1,7 @@
 # test
-Ligne 1 du truc.<br />
-Ligne 2 du truc;<br />
+<div style="white-space: pre-line">
+Ligne 1 du truc.
+Ligne 2 du truc;
 QISDFHQKDFQDFHLKMQDF
+</div>
+
